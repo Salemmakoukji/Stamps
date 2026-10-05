@@ -1,0 +1,6 @@
+{
+  "name": "Daily Stamp",
+  "description": "Daily stamp app to capture something beautiful each day in a postal stamp frame, track streaks, and share directly to social media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

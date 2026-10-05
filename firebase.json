@@ -1,0 +1,8 @@
+{
+  "firestore": [
+    {
+      "database": "ai-studio-android-dailysta-dcb4b346-b3c5-4995-a206-9efdef7cb9b0",
+      "rules": "firestore.rules"
+    }
+  ]
+}

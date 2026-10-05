@@ -1,0 +1,33 @@
+{
+  "entities": {
+    "User": {
+      "path": "/users/{userId}",
+      "fields": {
+        "userId": { "type": "string", "required": true },
+        "displayName": { "type": "string", "required": false },
+        "email": { "type": "string", "required": false },
+        "photoUrl": { "type": "string", "required": false },
+        "currentStreak": { "type": "number", "required": true },
+        "bestStreak": { "type": "number", "required": true },
+        "lastActiveDate": { "type": "string", "required": false },
+        "totalStamps": { "type": "number", "required": true },
+        "updatedAt": { "type": "timestamp", "required": false }
+      }
+    },
+    "Stamp": {
+      "path": "/users/{userId}/stamps/{stampId}",
+      "fields": {
+        "id": { "type": "string", "required": true },
+        "userId": { "type": "string", "required": true },
+        "caption": { "type": "string", "required": false },
+        "dateFormatted": { "type": "string", "required": true },
+        "dateMillis": { "type": "number", "required": true },
+        "shapeType": { "type": "string", "required": true },
+        "isPublic": { "type": "boolean", "required": true },
+        "imageUri": { "type": "string", "required": false },
+        "locationOrTag": { "type": "string", "required": false },
+        "createdAt": { "type": "timestamp", "required": false }
+      }
+    }
+  }
+}

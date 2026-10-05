@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Daily Stamp</string>
+    <string name="default_web_client_id" translatable="false">741169601427-k98lbom02i6bjc3v74589rk8onhogkhr.apps.googleusercontent.com</string>
+    <string name="app_tagline">Capture a beautiful moment every day as a stamp</string>
+    <string name="nav_today">Today</string>
+    <string name="nav_album">Journal</string>
+    <string name="nav_new">New Stamp</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="welcome">Welcome</string>
+    <string name="streak_days">%1$d Day Streak</string>
+    <string name="caption_label">Caption</string>
+    <string name="caption_hint">What made this moment beautiful today?</string>
+    <string name="date_label">Date</string>
+    <string name="location_label">Location</string>
+    <string name="share_stamp">Share Stamp</string>
+    <string name="save_stamp">Save Stamp</string>
+    <string name="retake">Retake</string>
+    <string name="set_as_public">Set as public</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>

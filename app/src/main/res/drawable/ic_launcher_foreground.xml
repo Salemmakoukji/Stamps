@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stamp body: centered card -->
+    <path
+        android:fillColor="#FFF8F0"
+        android:pathData="M27,24 h54 a2,2 0 0 1 2,2 v56 a2,2 0 0 1 -2,2 h-54 a2,2 0 0 1 -2,-2 v-56 a2,2 0 0 1 2,-2 z" />
+
+    <!-- Top edge perforation notches -->
+    <path
+        android:fillColor="#1A3449"
+        android:pathData="M33,24 a2.5,2.5 0 0 0 5,0 z M43,24 a2.5,2.5 0 0 0 5,0 z M53,24 a2.5,2.5 0 0 0 5,0 z M63,24 a2.5,2.5 0 0 0 5,0 z M71,24 a2.5,2.5 0 0 0 5,0 z" />
+    <!-- Bottom edge perforation notches -->
+    <path
+        android:fillColor="#112230"
+        android:pathData="M33,84 a2.5,2.5 0 0 1 5,0 z M43,84 a2.5,2.5 0 0 1 5,0 z M53,84 a2.5,2.5 0 0 1 5,0 z M63,84 a2.5,2.5 0 0 1 5,0 z M71,84 a2.5,2.5 0 0 1 5,0 z" />
+    <!-- Left edge perforation notches -->
+    <path
+        android:fillColor="#183044"
+        android:pathData="M25,31 a2.5,2.5 0 0 1 0,5 z M25,41 a2.5,2.5 0 0 1 0,5 z M25,51 a2.5,2.5 0 0 1 0,5 z M25,61 a2.5,2.5 0 0 1 0,5 z M25,71 a2.5,2.5 0 0 1 0,5 z" />
+    <!-- Right edge perforation notches -->
+    <path
+        android:fillColor="#142838"
+        android:pathData="M83,31 a2.5,2.5 0 0 0 0,5 z M83,41 a2.5,2.5 0 0 0 0,5 z M83,51 a2.5,2.5 0 0 0 0,5 z M83,61 a2.5,2.5 0 0 0 0,5 z M83,71 a2.5,2.5 0 0 0 0,5 z" />
+
+    <!-- Inner stamp picture frame -->
+    <path
+        android:fillColor="#E07A5F"
+        android:pathData="M31,29 h46 a2,2 0 0 1 2,2 v42 a2,2 0 0 1 -2,2 h-46 a2,2 0 0 1 -2,-2 v-42 a2,2 0 0 1 2,-2 z" />
+
+    <!-- Sun rays and camera silhouette -->
+    <path
+        android:fillColor="#F4F1DE"
+        android:pathData="M43,45 h22 v18 h-22 z" />
+    <path
+        android:fillColor="#F4A261"
+        android:pathData="M45,39 h18 l3,4 h-24 z" />
+    <path
+        android:fillColor="#E07A5F"
+        android:pathData="M54,54 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0" />
+    <path
+        android:fillColor="#F4F1DE"
+        android:pathData="M54,54 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+
+    <!-- Vintage postal postmark circle & wavy lines -->
+    <path
+        android:strokeColor="#C53D25"
+        android:strokeWidth="1.2"
+        android:strokeAlpha="0.85"
+        android:fillColor="#00000000"
+        android:pathData="M65,34 a7,7 0 1,0 0.1,0.1" />
+    <path
+        android:strokeColor="#C53D25"
+        android:strokeWidth="1.0"
+        android:strokeAlpha="0.75"
+        android:fillColor="#00000000"
+        android:pathData="M58,32 q4,-2 8,0 t8,0 M58,35 q4,-2 8,0 t8,0 M58,38 q4,-2 8,0 t8,0" />
+</vector>
